@@ -1,1 +1,1 @@
-Python for climate data analysis, facilitated by 
+Python for climate data analysis, facilitated by @jeffjay88
