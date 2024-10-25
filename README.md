@@ -1,1 +1,3 @@
-Python for climate data analysis, facilitated by @jeffjay88
+How do we utilize pyhton for climate data Analysis?
+
+This repository was done during my undergrad studies, was facilitated by Dr. Jeffrey Nii Aryee
