@@ -1,3 +1,5 @@
-How do we utilize pyhton for climate data Analysis?
+This repository contains resources and scripts that demonstrate how Python can be effectively utilized for climate data analysis.
 
-The information in this repository was compiled during my undergrad studies, and was facilitated by Dr. Jeffrey Nii Aryee
+The content was compiled during my undergraduate studies and reflects my exploration of various techniques for processing, analyzing, and visualizing climate-related datasets.
+
+My learning journey was greatly enriched under the guidance of Dr. Jeffrey Nii Aryee, whose mentorship provided valuable insights and direction.
